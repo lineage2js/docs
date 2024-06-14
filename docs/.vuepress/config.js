@@ -11,4 +11,7 @@ export default defineUserConfig({
     navbar: ['/', '/get-started'],
   }),
   bundler: viteBundler(),
+  head: [
+    ['link', { rel: "shortcut icon", href: "/docs/favicon.ico"}],
+  ],
 })

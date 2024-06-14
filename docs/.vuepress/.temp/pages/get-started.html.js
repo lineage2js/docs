@@ -1,5 +1,5 @@
 import comp from "C:/Users/ivanov/Desktop/vuepress-starter/docs/.vuepress/.temp/pages/get-started.html.vue"
-const data = JSON.parse("{\"path\":\"/get-started.html\",\"title\":\"Get Started\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1718363401000,\"contributors\":[{\"name\":\"Yaroslav Ivanov\",\"email\":\"yaroslav.ivanov@e-flops.ru\",\"commits\":1}]},\"filePathRelative\":\"get-started.md\"}")
+const data = JSON.parse("{\"path\":\"/get-started.html\",\"title\":\"Get Started\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1718367128000,\"contributors\":[{\"name\":\"Yaroslav Ivanov\",\"email\":\"yaroslav.ivanov@e-flops.ru\",\"commits\":2}]},\"filePathRelative\":\"get-started.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
