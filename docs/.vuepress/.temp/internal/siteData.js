@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Lineage 2 JavaScript Server\",\"description\":\"Server emulator written in Node.js\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/docs/\",\"lang\":\"en-US\",\"title\":\"Lineage 2 JavaScript Server\",\"description\":\"Server emulator written in Node.js\",\"head\":[],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
