@@ -9,6 +9,8 @@ export default defineUserConfig({
   description: 'Server emulator written in Node.js',
   theme: defaultTheme({
     navbar: ['/', '/get-started'],
+    lastUpdated: false,
+    contributors: false,
   }),
   bundler: viteBundler(),
   head: [

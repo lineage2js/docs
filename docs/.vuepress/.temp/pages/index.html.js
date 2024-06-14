@@ -1,5 +1,5 @@
 import comp from "C:/Users/ivanov/Desktop/vuepress-starter/docs/.vuepress/.temp/pages/index.html.vue"
-const data = JSON.parse("{\"path\":\"/\",\"title\":\"Home\",\"lang\":\"en-US\",\"frontmatter\":{\"home\":true,\"title\":\"Home\",\"heroImage\":\"/logo.png\",\"actions\":[{\"text\":\"Get Started\",\"link\":\"/get-started.html\",\"type\":\"primary\"}],\"footer\":\"MIT Licensed | Copyright © 2024 Lineage2JS. All rights reserved.\"},\"headers\":[],\"git\":{\"updatedTime\":1718365586000,\"contributors\":[{\"name\":\"Yaroslav Ivanov\",\"email\":\"yaroslav.ivanov@e-flops.ru\",\"commits\":2}]},\"filePathRelative\":\"README.md\"}")
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"Home\",\"lang\":\"en-US\",\"frontmatter\":{\"home\":true,\"title\":\"Home\",\"heroImage\":\"/logo.png\",\"actions\":[{\"text\":\"Get Started\",\"link\":\"/get-started.html\",\"type\":\"primary\"}],\"footer\":\"MIT Licensed | Copyright © 2024 Lineage2JS. All rights reserved.\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
