@@ -4,7 +4,7 @@ title: Home
 heroImage: /logo.png
 actions:
   - text: Get Started
-    link: /getting-started.html
+    link: /get-started.html
     type: primary
 
 footer: MIT Licensed | Copyright © 2024 Lineage2JS. All rights reserved.
