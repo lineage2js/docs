@@ -6,11 +6,20 @@ export default defineUserConfig({
   base: "/docs/",
   lang: 'en-US',
   title: 'Lineage 2 JavaScript Server',
-  description: 'Server emulator written in Node.js',
   theme: defaultTheme({
-    navbar: ['/', '/get-started'],
     lastUpdated: false,
     contributors: false,
+    sidebar: [
+      {
+        text: 'Guide',
+        children: [
+          {
+            text: 'Get started',
+            link: '/guide/get-started/',
+          },
+        ],
+      },
+    ],
   }),
   bundler: viteBundler(),
   head: [
