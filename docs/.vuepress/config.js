@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   base: "/docs/",
   lang: 'en-US',
-  title: 'Lineage 2 NodeJS Server',
+  title: 'Lineage 2 Node.js server',
   theme: defaultTheme({
     lastUpdated: false,
     contributors: false,
