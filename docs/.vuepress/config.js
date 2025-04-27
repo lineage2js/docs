@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   base: "/docs/",
   lang: 'en-US',
-  title: 'Lineage 2 Chronicle 1: Harbingers of War – server emulator (written in JavaScript)',
+  title: 'Lineage 2 server emulator in JavaScript',
   theme: defaultTheme({
     lastUpdated: false,
     contributors: false,
